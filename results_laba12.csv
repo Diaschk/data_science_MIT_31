@@ -1,0 +1,5 @@
+Метод,Точність
+TF-IDF,0.798
+Bag of Words,0.7967
+Word2Vec,0.849
+GloVe,0.7718
